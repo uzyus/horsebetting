@@ -1,0 +1,4 @@
+﻿  functions.c
+C:\Users\uzy\source\repos\horsebetting\functions.c(196,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\uzy\source\repos\horsebetting\functions.c(249,57): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  horsebetting.vcxproj -> C:\Users\uzy\source\repos\horsebetting\x64\Debug\horsebetting.exe
